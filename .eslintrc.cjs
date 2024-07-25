@@ -7,6 +7,7 @@ module.exports = {
         'plugin:react-hooks/recommended',
         'plugin:import/typescript',
         'airbnb',
+        'plugin:prettier/recommended'
     ],
     ignorePatterns: ['dist', '.eslintrc.cjs', 'vite.config.ts', 'functions'],
     parser: '@typescript-eslint/parser',
